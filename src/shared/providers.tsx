@@ -25,7 +25,7 @@ const images = [
   ArubaSVGUrl,
   InfoCamereSVGUrl,
   InfocertSVGUrl,
-  IntesigroupSVGUrl
+  IntesigroupSVGUrl,
   LepidaSVGUrl,
   NamirialSVGUrl,
   PosteSVGUrl,

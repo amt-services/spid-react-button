@@ -6,9 +6,9 @@
     "Tim ID": "https://login.id.tim.it/affwebservices/public/saml2sso",
     "Namirial ID": "https://idp.namirialtsp.com/idp",
     "SPIDItalia Register.it": "https://spid.register.it",
-    "EtnaID" :"https://id.eht.eu",
     "Lepida ID": "https://id.lepida.it/idp/shibboleth",
     "Team System ID": "https://spid.teamsystem.com/idp",
+    "EtnaID" :"https://id.eht.eu",
   "Infocamere" : "https://loginspid.infocamere.it",
   "Intesi Group":"https://idp.intesigroup.com"
 }

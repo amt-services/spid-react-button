@@ -1,4 +1,8 @@
 # spid-react-button
+## Notice
+
+This is a fork of @dej611/spid-react-button, originally authored by @deja611.
+Modifications by gianpieropa, licensed under the EUPL-1.2.
 
 > Pulsante SSO per SPID in React
 

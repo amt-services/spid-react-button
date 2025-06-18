@@ -5,7 +5,6 @@ import SielteSVGUrl from '/./svgs/idp-logos/spid-idp-sielteid.svg';
 import TimSVGUrl from '/./svgs/idp-logos/spid-idp-timid.svg';
 import NamirialSVGUrl from '/./svgs/idp-logos/spid-idp-namirialid.svg';
 import RegisterItSVGUrl from '/./svgs/idp-logos/spid-idp-spiditalia.svg';
-import IntesaSVGUrl from '/./svgs/idp-logos/spid-idp-intesaid.svg';
 import LepidaSVGUrl from '/./svgs/idp-logos/spid-idp-lepidaid.svg';
 import TeamSystemSVGUrl from '/./svgs/idp-logos/spid-idp-teamsystemid.svg';
 import EtnaSVGUrl from '/./svgs/idp-logos/spid-idp-etnaid.svg';

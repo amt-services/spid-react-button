@@ -8,6 +8,9 @@ import RegisterItSVGUrl from '/./svgs/idp-logos/spid-idp-spiditalia.svg';
 import IntesaSVGUrl from '/./svgs/idp-logos/spid-idp-intesaid.svg';
 import LepidaSVGUrl from '/./svgs/idp-logos/spid-idp-lepidaid.svg';
 import TeamSystemSVGUrl from '/./svgs/idp-logos/spid-idp-teamsystemid.svg';
+import EtnaSVGUrl from '/./svgs/idp-logos/spid-idp-etnaid.svg';
+import InfoCamereSVGUrl from '/./svgs/idp-logos/spid-idp-infocamereid.svg';
+import IntesigroupSVGUrl from '/./svgs/idp-logos/spid-idp-intesigroupspid.svg';
 
 import providersList from './providers_meta.json';
 
@@ -20,15 +23,17 @@ import type { RegisteredProviderRecord } from './types';
  */
 const images = [
   ArubaSVGUrl,
+  InfoCamereSVGUrl,
   InfocertSVGUrl,
-  IntesaSVGUrl,
+  IntesigroupSVGUrl
   LepidaSVGUrl,
   NamirialSVGUrl,
   PosteSVGUrl,
   RegisterItSVGUrl,
   SielteSVGUrl,
   TeamSystemSVGUrl,
-  TimSVGUrl
+  TimSVGUrl,
+  EtnaSVGUrl
 ];
 
 export const providers: Readonly<RegisteredProviderRecord>[] = Object.entries(

@@ -22,6 +22,7 @@ import type { RegisteredProviderRecord } from './types';
  */
 const images = [
   ArubaSVGUrl,
+  EtnaSVGUrl,
   InfoCamereSVGUrl,
   InfocertSVGUrl,
   IntesigroupSVGUrl,
@@ -31,10 +32,8 @@ const images = [
   RegisterItSVGUrl,
   SielteSVGUrl,
   TeamSystemSVGUrl,
-  TimSVGUrl,
-  EtnaSVGUrl
+  TimSVGUrl
 ];
-
 export const providers: Readonly<RegisteredProviderRecord>[] = Object.entries(
   providersList
 )

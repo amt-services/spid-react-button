@@ -11,6 +11,12 @@
 | ------------- | ------------- |
 | <img src="scripts/spid-modal.png" title="SPID dropdown version" alt="SPID modal version" width="977">  | <img src="scripts/spid-dropdown.png" title="SPID dropdown version" alt="SPID dropdown version" width="977">  |
 
+
+## Notice
+
+This is a fork of @dej611/spid-react-button, originally authored by @deja611.
+Modifications by gianpieropa, licensed under the EUPL-1.2.
+
 ## Install
 
 ```bash

@@ -29,8 +29,8 @@ const images = [
   LepidaSVGUrl,
   NamirialSVGUrl,
   PosteSVGUrl,
-  RegisterItSVGUrl,
   SielteSVGUrl,
+  RegisterItSVGUrl, // SPIDItalia Register.it
   TeamSystemSVGUrl,
   TimSVGUrl
 ];
